@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 ICS student at the University of Hawaiʻi at Mānoa.
 
 ![Cool cat picture with shaka sign](IMG_0105.jpg)
