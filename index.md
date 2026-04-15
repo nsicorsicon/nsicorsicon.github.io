@@ -1,9 +1,9 @@
 ICS student at the University of Hawaiʻi at Mānoa.
 
-![Cool cat picture with shaka sign](image_4.png)
+![Cool cat picture with shaka sign](IMG_0105.jpg)
 
-### About Me
-* Currently a freshman at UH Manoa
+## Hobbies
+I like to lift weights and play video games.
 
 ### Contact Info
 * ✉️ [nathanielsicorsicon@gmail.com](mailto:nathanielsicorsicon@gmail.com)
