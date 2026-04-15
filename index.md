@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 ICS student at the University of Hawaiʻi at Mānoa.
